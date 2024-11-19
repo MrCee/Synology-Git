@@ -1,4 +1,4 @@
-To quicky get Git up and running ASAP without using the Synology DSM Package Manager you can tung the following:
+To quicky get Git up and running ASAP without using the Synology DSM Package Manager you can use the following:
 
 ```
 curl -sSL https://raw.githubusercontent.com/MrCee/Synology-Git/refs/heads/main/install-synology-git.sh | bash
