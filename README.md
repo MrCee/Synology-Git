@@ -6,4 +6,7 @@ curl -sSL https://raw.githubusercontent.com/MrCee/Synology-Git/refs/heads/main/i
 
 This will install the SynnoCommunity Package of Git and allow cloning of new projects.
 
-This version is outdated, althout it will get the job done and if you are updating to Synology-Homebrew, it will be replaced by the latest version.
+This version is slightly outdated, althout it will get the job done and if you are updating to Synology-Homebrew, it will be replaced by the latest version.
+
+The lastes version of Synology-Homrebrew is avaluable here: https://github.com/MrCee/Synology-Homebrew
+
