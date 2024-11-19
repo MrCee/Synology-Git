@@ -8,5 +8,5 @@ This will install the SynnoCommunity Package of Git and allow cloning of new pro
 
 This version is slightly outdated, althout it will get the job done and if you are updating to Synology-Homebrew, it will be replaced by the latest version.
 
-The lastes version of Synology-Homrebrew is avaluable here: https://github.com/MrCee/Synology-Homebrew
+The lastest version of Synology-Homrebrew is avaliable here: https://github.com/MrCee/Synology-Homebrew
 
